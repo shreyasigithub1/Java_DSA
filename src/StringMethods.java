@@ -18,6 +18,9 @@ public class StringMethods {
         System.out.println(s1.toUpperCase());
         System.out.println(s1.toLowerCase());
         System.out.println(s1.trim());
+        //Remove te blank space from starting and ending of the string but not in the middle
+
+
 
 
 
